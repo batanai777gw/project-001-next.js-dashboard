@@ -17,6 +17,6 @@ This is my second next.js application and credits to the youtube channel Travers
 Learn More
 To learn more about Next.js, take a look at the following resources:
 
-Next.js Documentation - learn about Next.js features and API.
+https://nextjs.org/docs/getting-started - learn about Next.js features and API.
 Learn Next.js - an interactive Next.js tutorial.
 You can check out the Next.js GitHub repository - your feedback and contributions are welcome!

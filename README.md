@@ -1,6 +1,5 @@
 This is a Next.js project bootstrapped with create-next-app.
 
-
 Getting Started
 First, run the development server:
 
@@ -20,4 +19,4 @@ https://nextjs.org/docs/getting-started - learn about Next.js features and API.
 Learn Next.js - an interactive Next.js tutorial.
 
 # 
-Next I will be building a full-stack application using java, spring boot, sql databases, maven, jenkins and angular v11
+Next I will be building a full-stack application using java, spring boot, sql databases and angular v11
